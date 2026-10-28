@@ -1,0 +1,28 @@
+{
+  "flutter": {
+    "platforms": {
+      "android": {
+        "default": {
+          "projectId": "escola-5f0b4",
+          "appId": "1:766641183304:android:1f8735d74c7a6e84cb167d",
+          "fileOutput": "android/app/google-services.json"
+        }
+      },
+      "dart": {
+        "lib/firebase_options.dart": {
+          "projectId": "escola-5f0b4",
+          "configurations": {
+            "android": "1:766641183304:android:1f8735d74c7a6e84cb167d",
+            "ios": "1:766641183304:ios:a55a855845cd5ecccb167d",
+            "macos": "1:766641183304:ios:a55a855845cd5ecccb167d",
+            "web": "1:766641183304:web:9499f1fd09152818cb167d",
+            "windows": "1:766641183304:web:6adf0dd17b7f8678cb167d"
+          }
+        }
+      }
+    }
+  },
+  "firestore": {
+    "rules": "firestore.rules"
+  }
+}

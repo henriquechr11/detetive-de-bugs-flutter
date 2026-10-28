@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "766641183304",
+    "project_id": "escola-5f0b4",
+    "storage_bucket": "escola-5f0b4.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:766641183304:android:1f8735d74c7a6e84cb167d",
+        "android_client_info": {
+          "package_name": "com.example.bugsresolver"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBXfLTEgVP7GuHHtP954i7vWIClGJsB2S8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:766641183304:android:1169c831244892c5cb167d",
+        "android_client_info": {
+          "package_name": "com.example.cadastrofeitico"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBXfLTEgVP7GuHHtP954i7vWIClGJsB2S8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
